@@ -17,6 +17,5 @@ const showStars = (nbBase, reverse, character) => {
   }
   return str
 }
-
 let str = showStars(9, false, 'S')
 console.log(str)

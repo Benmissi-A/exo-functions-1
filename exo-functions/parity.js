@@ -17,5 +17,4 @@ const isEven = (nb) => {
     return true
   }
 }
-
 console.log(isEven(8))

@@ -5,4 +5,3 @@ const count = (MAX, MIN, STEP) => {
   }
 }
 count(20, 0, 2)
-
